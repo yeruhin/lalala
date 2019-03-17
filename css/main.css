@@ -1,0 +1,28 @@
+button{
+    border: 1px solid black;
+    width:5rem;
+    height:5rem;
+    text-align: center;
+    border-radius: 20%;
+    font-size: 2rem;
+    outline:none;
+}
+table{
+    margin: auto;
+}
+p{
+    font-size: 30px;
+    color:yellow;
+    text-align: center;
+}
+.choose-difficult{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    background-color: #292929;
+}
+.win{
+    display: none;
+}
